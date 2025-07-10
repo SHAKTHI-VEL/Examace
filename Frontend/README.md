@@ -29,10 +29,6 @@ Struggling to find answers from the *prescribed university textbooks*?
 
 ---
 
-## 📱 App Screenshots
-
-*(Add your app screenshots)*
----
 
 ## 🎯 Key Features
 
@@ -115,8 +111,8 @@ When a student submits a query:
 ## 🛠 Getting Started
 
 ```bash
-git clone 
-cd ExamAce-App
+git clone https://github.com/SHAKTHI-VEL/Examace.git
+cd Frontend/ExamAce-App
 flutter pub get
 flutter run
 ```
