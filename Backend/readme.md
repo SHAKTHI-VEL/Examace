@@ -3,13 +3,13 @@
 1. Clone this repository to your local machine using the following command:
 
    ```
-   https://github.com/SHAKTHI-VEL/ragFlask.git
+   https://github.com/SHAKTHI-VEL/Examace.git
    ```
 
 2. Change your current directory to the project folder:
 
    ```
-   cd ragFlask
+   cd Backend/ragFlask
    ```
 
 3. Run the following command to fetch the dependencies:
